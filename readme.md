@@ -1,4 +1,4 @@
 ﻿# Códigos do curso Python Games
 
-Esse repositório reúne códigos do curso de Games em python do blog [código fluente](https://www.codigofluente.com.br/).
+Esse repositório reúne códigos do curso de Games em python do blog [código fluente](https://www.codigofluente.com.br/criando-games/games-em-python/).
 
