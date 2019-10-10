@@ -1,7 +1,10 @@
 ﻿# Códigos do curso Criando Games em Python 
 
 Esse repositório reúne códigos do curso de Games em python do blog [código fluente](https://www.codigofluente.com.br/criando-games/games-em-python/).
-# Criando o Jogo Breakout
+
+##Primeiro Jogo - Arcade Breakout
+
+## Criando o Jogo Breakout
 
 O jogo breakout é um jogo do tipo arcade.<br>
 Foi desenvolvido e publicado pela Atari, Inc. e lançado em 13 de maio de 1976.
