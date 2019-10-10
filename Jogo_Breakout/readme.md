@@ -4,7 +4,7 @@ Esse repositório reúne códigos do curso de Games em python do blog [código f
 
 ## Primeiro Jogo - Arcade Breakout
 
-## Criando o Jogo Breakout
+## Breakout
 
 O jogo breakout é um jogo do tipo arcade.<br>
 Foi desenvolvido e publicado pela Atari, Inc. e lançado em 13 de maio de 1976.
